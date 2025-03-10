@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently studying. Developing in the direction of .net
+I am a third-year university student majoring in Software Engineering. I am currently actively studying .NET and acquiring software development skills. I am interested in creating web applications, developing APIs, and working with databases. My experience includes both technology projects and independent developments aimed at improving programming functions and application architecture.
 
 
 ## 🌐 Socials:
